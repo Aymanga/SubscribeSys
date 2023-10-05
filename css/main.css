@@ -1,0 +1,404 @@
+body {
+    height: 100vh;
+}
+
+
+.mynav {
+    background-color: rgb(11 74 104);
+    text-align: center;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    margin-left: 25%;
+}
+
+.mynav a {
+    color: aliceblue;
+
+}
+
+.navbar-nav {
+    text-align: center;
+    margin-left: 35%;
+    font-size: 25px;
+}
+
+
+.my-c {
+
+    margin-top: 12%;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.my-ca {
+    margin-left: 50px;
+    background-color: rgb(11 74 104);
+    color: aliceblue;
+
+}
+
+.card-title {
+    font-family: cursive;
+    font-size: 30px;
+}
+
+
+.my-lo {
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(11 74 104);
+}
+
+.myb {
+    margin-left: 44.5%;
+    font-size: 14px;
+}
+
+
+.users {
+    margin-top: 25px;
+    justify-content: start;
+}
+
+.users .user input {
+    font-size: 15px;
+    border-color: gainsboro;
+
+}
+
+.users .user label {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(11 74 104);
+}
+
+.cost {
+    height: 250px;
+    background-color: rgb(11 74 104);
+    margin-top: 100px;
+    border-radius: 5px;
+
+}
+
+
+.P-01 {
+    font-size: 25PX;
+    margin-top: 20px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.form-group {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 2px;
+    background-color: aliceblue;
+    border: none;
+    color: rgb(11 74 104);
+    ;
+}
+
+
+
+.bu {
+    width: 13%;
+    margin: auto;
+    padding: 7px 0px;
+    border-radius: 5px;
+    color: rgb(11 74 104);
+}
+
+button.\.f-b {
+    background: aliceblue;
+    color: rgb(11 74 104);
+    padding: 6px 36px;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+
+
+.dis {
+
+    display: none;
+    text-align: center;
+
+}
+
+.dis p {
+    width: 25%;
+    margin: auto;
+    height: 100px;
+    border-radius: 10px;
+    color: rgb(6 226 6 / 75%);
+    background-color: gainsboro;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 25px;
+
+}
+
+
+
+@media (max-width: 550px) {
+
+    .bu {
+        width: 28%;
+    }
+
+    .my-c {
+
+        margin-top: 6%;
+        margin-left: 0px;
+        font-size: 25px;
+    }
+
+
+    .my-ca {
+        margin-left: 50px;
+        margin-bottom: 20px;
+        background-color: rgb(11 74 104);
+        color: aliceblue;
+    }
+
+    .my-lo {
+        width: 80%;
+        margin: auto;
+        padding-top: 5px;
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(11 74 104);
+    }
+
+    .myb {
+        margin-left: 43.5%;
+        font-size: 14px;
+        margin-top: -31px;
+    }
+
+
+    .form-group {
+
+        margin-top: 11px;
+    }
+
+    .cost {
+        height: 360px;
+
+    }
+}
+
+@media (max-width: 750px) {
+
+    .bu {
+        width: 28%;
+    }
+
+    .my-c {
+
+        margin-top: 6%;
+        margin-left: 0px;
+        font-size: 25px;
+    }
+
+
+    .my-ca {
+        margin-left: 50px;
+        margin-bottom: 20px;
+        background-color: rgb(11 74 104);
+        color: aliceblue;
+    }
+
+    .my-lo {
+        width: 80%;
+        margin: auto;
+        padding-top: 5px;
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(11 74 104);
+    }
+
+    .myb {
+        margin-left: 43.5%;
+        font-size: 14px;
+        margin-top: -31px;
+    }
+
+
+    .form-group {
+
+        margin-top: 11px;
+    }
+
+    .cost {
+        height: 360px;
+
+    }
+}
+
+@media (max-width: 950px) {
+
+    .bu {
+        width: 28%;
+    }
+
+    .my-c {
+
+        margin-top: 6%;
+        margin-left: 0px;
+        font-size: 25px;
+    }
+
+
+    .my-ca {
+        margin-left: 50px;
+        margin-bottom: 20px;
+        background-color: rgb(11 74 104);
+        color: aliceblue;
+    }
+
+    .my-lo {
+        width: 80%;
+        margin: auto;
+        padding-top: 5px;
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(11 74 104);
+    }
+
+    .myb {
+        margin-left: 43.5%;
+        font-size: 14px;
+        margin-top: -31px;
+    }
+
+
+    .form-group {
+
+        margin-top: 11px;
+    }
+
+    .cost {
+        height: 360px;
+
+    }
+}
+
+@media (max-width: 1200px) {
+
+    .bu {
+        width: 28%;
+    }
+
+}
+
+@media (max-width: 450px) {
+
+    .bu {
+        width: 50%;
+    }
+
+    .my-c {
+
+        margin-top: 6%;
+        margin-left: 0px;
+        font-size: 25px;
+    }
+
+
+    .my-ca {
+        margin-left: 50px;
+        margin-bottom: 20px;
+        background-color: rgb(11 74 104);
+        color: aliceblue;
+    }
+
+    .my-lo {
+        width: 80%;
+        margin: auto;
+        padding-top: 5px;
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(11 74 104);
+    }
+
+    .myb {
+        margin-left: 43.5%;
+        font-size: 14px;
+        margin-top: -31px;
+    }
+
+
+    .form-group {
+
+        margin-top: 11px;
+    }
+
+    .cost {
+        height: 360px;
+
+    }
+}
+
+@media (max-width: 450px) {
+
+    .dis p {
+        width: 50%;
+
+
+    }
+
+    .my-c {
+
+        margin-top: 6%;
+        margin-left: 0px;
+        font-size: 25px;
+    }
+
+
+    .my-ca {
+        margin-left: 50px;
+        margin-bottom: 20px;
+        background-color: rgb(11 74 104);
+        color: aliceblue;
+    }
+
+    .my-lo {
+        width: 80%;
+        margin: auto;
+        padding-top: 5px;
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(11 74 104);
+    }
+
+    .myb {
+        margin-left: 43.5%;
+        font-size: 14px;
+        margin-top: -31px;
+    }
+
+
+    .form-group {
+
+        margin-top: 11px;
+    }
+
+    .cost {
+        height: 360px;
+
+    }
+
+
+}
